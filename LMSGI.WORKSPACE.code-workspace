@@ -7,5 +7,7 @@
 			"path": "../LMSGI-CLASE"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "LMSGI"
+	}
 }
